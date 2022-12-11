@@ -1,0 +1,483 @@
+kodnest-csr-2022
+Stream
+Classwork
+People
+Classwork for kodnest-csr-2022Classwork for kodnest-csr-2022
+All topics
+Project Documentation
+PORTFOLIO
+Project Details
+HACKER RANK SOLUTIONS
+Java Q&A
+Weekly Assessment Solutions
+Debugging Assignment Solutions
+SQL
+Testing
+Debugging Assignment
+Aptitude
+EXTRA JAVA CLASS VIDEOS
+Java Assignment Solutions
+Java Assignments
+Aptitude Classwork
+Java
+Material
+Window Builder Eclipse Solution
+Posted Nov 23
+Material
+Classwork 08-09-2022
+Posted Sep 8
+Material
+IMPORTANT QUESTIONS AND ANSWERS ON DATATYPES
+Edited Sep 2
+Material
+Testing Book
+Posted Aug 30
+Material
+Python Book
+Posted Aug 30
+Material
+Web Book
+Posted Aug 30
+Material
+SQL Book
+Posted Aug 30
+Material
+Java Book
+Posted Aug 30
+Material
+Aptitude Book
+Posted Aug 30
+Project Documentation
+Project Documentation
+Assignment
+Data Structures Project Documentation Assignment
+Due Dec 13, 11:59 PM
+PORTFOLIO
+PORTFOLIO
+Material
+PORTFOLIO
+Posted Dec 9
+
+index.html
+HTML
+
+style.css
+Style Sheet
+Project Details
+Project Details
+Material
+PROJECT DETAILS
+Posted Dec 1
+HACKER RANK SOLUTIONS
+HACKER RANK SOLUTIONS
+Material
+HACKER RANK JAVA SOLUTIONS
+Posted Nov 24
+Java Q&A
+Java Q&A
+Material
+Java Questions And Answer
+Posted Nov 15
+Weekly Assessment Solutions
+Weekly Assessment Solutions
+Material
+Weekly Assessment Solutions
+Posted Nov 16
+Material
+Weekly Assessment solutions
+Posted Oct 17
+Debugging Assignment Solutions
+Debugging Assignment Solutions
+Material
+Debugging Assignment - 12 Solutions
+Posted Nov 16
+Material
+Debugging Assignment - 11 Solutions
+Posted Nov 16
+Material
+Debugging Assignment - 10 Solutions
+Posted Nov 16
+Material
+Debugging Assignment - 9 Solutions
+Posted Nov 2
+Material
+Debugging Assignment - 8 Solutions
+Posted Oct 30
+Material
+Debugging Assignment - 7 Solutions
+Posted Oct 25
+Material
+Debugging Assignment - 6 Solutions
+Posted Oct 25
+Material
+Debugging Assignment - 5 Solutions
+Posted Oct 25
+Material
+Debugging Assignment - 4 Solutions
+Posted Oct 14
+Material
+Debugging Assignment -1 Solutions
+Edited Oct 12
+SQL
+SQL
+Material
+Oracle Software Link and Installation Video
+4
+4 comments
+Posted Oct 8
+Testing
+Testing
+Material
+Manual testing
+Posted Sep 30
+Debugging Assignment
+Debugging Assignment
+Assignment
+Debugging Assignment - 16
+Due Tomorrow, 11:59 PM
+Assignment
+Debugging Assignment - 15
+Due Yesterday, 11:59 PM
+Assignment
+Debugging Assignment -14
+Due Dec 2, 11:59 PM
+Assignment
+Debugging Assignment - 13
+Due Nov 19, 11:59 PM
+Completed Assignment
+Debugging Assignment -12
+Due Nov 10, 11:59 PM
+Completed Assignment
+Debugging Assignment -11
+Due Nov 8, 11:59 PM
+Completed Assignment
+Debugging Assignment - 10
+Due Nov 4, 11:59 PM
+Completed Assignment
+Debugging Assignment - 9
+Due Nov 1, 11:59 PM
+Completed Assignment
+Debugging Assignment - 8
+Due Oct 29, 11:59 PM
+Completed Assignment
+Debugging Assignment - 7
+Due Oct 24, 11:59 PM
+Aptitude
+Aptitude
+Material
+CGI GROOMING SESSION
+Posted Dec 3
+Material
+Apti class 19th oct
+Posted Oct 19
+Material
+Apti class 18th oct
+Posted Oct 18
+Material
+Apti class 17th oct
+Posted Oct 17
+Material
+Apti class14th oct
+Posted Oct 14
+Material
+Apti class 13th oct
+Posted Oct 13
+Material
+Apti classwork 12th oct
+Posted Oct 12
+Material
+Apti classwork 11th oct
+Posted Oct 11
+Material
+Apti classwork 10th oct
+Posted Oct 10
+Material
+Apti class 7th oct
+Posted Oct 7
+EXTRA JAVA CLASS VIDEOS
+EXTRA JAVA CLASS VIDEOS
+Assignment
+Extra Java Class video
+Due Oct 22, 11:59 PM
+Assignment
+Extra Java Class Videos
+Due Oct 17, 11:59 PM
+Assignment
+EXTRA JAVA CLASS VIDEOS
+Due Oct 14, 11:59 PM
+Assignment
+JAVA EXTRA VIDEOS
+Due Sep 30, 11:59 PM
+Assignment
+SEARCHING AND SORTING ALGORITHMS
+Due Sep 27, 11:59 PM
+Java Assignment Solutions
+Java Assignment Solutions
+Material
+Java 22-09-2022 Assignments Solutions
+Posted Sep 26
+Material
+Java 21-09-2022 Assignment solutions
+Posted Sep 26
+Material
+Java 17-09-2022 Assignment Solutions
+Posted Sep 26
+Material
+Java 08-09-2022 Assignment Solutions
+Posted Sep 19
+Material
+Java 07-09-2022 Assignment Solutions
+Posted Sep 19
+Material
+Java 06-09-2022 Assignment Solutions
+Posted Sep 19
+Material
+Java 05-09-2022 Assignment solutions
+Posted Sep 19
+Java Assignments
+Java Assignments
+Assignment
+JAVA Assignment 06-07-2022
+No due date
+Completed Assignment
+Java Assignment - 29-11-2022
+No due date
+Assignment
+Java 3-11-2022 Assignment
+Due Nov 4, 1:59 PM
+Assignment
+Java 2-11-2022 Assignment
+Due Nov 3, 11:59 AM
+Assignment
+Java 28-10-2022 Assignment
+No due date
+Assignment
+Java 27-10-2022 Assignment
+No due date
+Assignment
+Java 26-10-2022 Assignment
+No due date
+Completed Assignment
+Java 20-10-2022 Assignment
+No due date
+Completed Assignment
+Java 19-10-2022 Assignment
+No due date
+Assignment
+Java 18-10-2022 Assignment
+No due date
+Aptitude Classwork
+Aptitude Classwork
+Material
+Percentage Classwork
+Posted Sep 11
+Material
+Ratio Classwork
+Posted Sep 8
+Java
+Java
+Material
+Java Notes-Week 2
+Posted Sep 6
+Material
+Java Notes-Week1
+Posted Sep 2
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+body{
+    background-color: #111;
+    overflow: hidden;
+    padding-left: 35rem;
+}
+
+.heading{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding-top: 6rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+
+.heading span{
+    color: yellow;
+}
+
+.title{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding-top: 6rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+
+.title span{
+    color: yellow;
+}
+
+.head{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding-top: 5rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+.head span{
+    color: yellow;
+}
+.pro{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding-top: 5rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+.pro span{
+    color: yellow;
+}
+header{
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    height: 100%;
+    width: 35rem;
+    background:#1a1a1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+}
+
+header .user img{
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+    object-fit: cover;
+    border: .5rem solid;
+}
+
+header .user .nm{
+    font-size:2rem;
+    color: #fff;
+}
+
+header .user .jb{
+    font-size:1rem;
+    color: #fff;
+}
+
+header .nv{
+    width: 100%;
+}
+header .nv ul{
+    list-style: none;
+    padding: 1rem ;
+}
+
+header .nv ul li a{
+    display: block;
+    padding: 1rem;
+    margin: 1.5rem 0;
+    background: #333;
+    color: #fff;
+    font-size: 2rem;
+    border-radius: 5rem;
+    text-decoration: none;  
+}
+header .nv ul li a:hover{
+    background-color:yellowgreen;
+}
+
+.Details .Row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3rem 0;
+}
+
+.Details .Row .det{
+    flex: 1 1 48rem;
+    padding: 2rem 1rem;
+    padding-left: 8rem;
+}
+
+.Details .Row .det h3{
+    font-size: 2rem;
+    color: yellow;
+    padding: 1rem 0;
+    font-weight: normal;
+}
+
+.Details .Row .det h3 span{
+    color: #eee;
+    padding: 0. 5rem;
+}
+table,th,td{
+    border: 1px solid yellow;
+    border-collapse: collapse;
+}
+td{
+    color: white;
+    padding: 1rem;
+}
+th{
+    color: white;
+    padding: 1rem;
+}
+table{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 2rem;
+    padding: 1rem;
+    border-bottom: .1rem solid #fff4;
+    color: #fff;
+}
+#lis li{
+    margin: 0 9rem;
+    color: white;
+    font-size: medium;
+    padding: .5rem 1rem;
+}
+.Project .Row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3rem 0;
+}
+
+.Project .Row .det{
+    flex: 1 1 48rem;
+    padding: 2rem 1rem;
+    padding-left: 8rem;
+}
+
+.Project .Row .det h3{
+    font-size: 2rem;
+    color: yellow;
+    padding: 1rem 0;
+    font-weight: normal;
+}
+
+.Project .Row .det h3 span{
+    color: #eee;
+    padding: 0. 5rem;
+}
+style.css
+Displaying style.css.
